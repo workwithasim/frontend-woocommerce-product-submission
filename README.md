@@ -44,21 +44,7 @@ This shortcode will render a form that allows users to submit products with the 
 * **Author**: Muhammad Asim
 * **Website**: [https://workwithasim.com](https://workwithasim.com)
 
-== Changelog ==
 
-= 1.4 =
-* Improved form layout for price fields.
-* Set consistent 1px border on all input fields.
-
-= 1.3 =
-* Aligned "Regular Price" and "Sale Price" fields.
-
-= 1.2 =
-* Added WooCommerce dependency check.
-* Enhanced nonce security.
-
-= 1.1 =
-* Initial release with product submission form.
 
 == Frequently Asked Questions ==
 
